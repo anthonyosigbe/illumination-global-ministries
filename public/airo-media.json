@@ -1,0 +1,124 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-04980de7.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-horizontal-04980de7.png",
+    "naturalOrientation": "square"
+  },
+  "pages/home/mission": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1489175455"
+  },
+  "pages/home/ministry-worship": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1145417967"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1909969780"
+  },
+  "pages/home/give": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2289019658"
+  },
+  "pages/home/ministry-prayer": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2267490925"
+  },
+  "pages/home/ministry-outreach": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1479373304"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/578d74b5-d570-4e9a-89ce-207b29049d2b/favicon-transparent-aa0e821e-8503-4843-b4ea-107322effc8b/logo-logo.png"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-primary-04980de7.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-primary-04980de7.png",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-cb4c0a05.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-cb4c0a05.png",
+    "naturalOrientation": "vertical"
+  },
+  "team/leader-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/team-leader-1-e7a094e3.jpg"
+  },
+  "team/leader-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/team-leader-2-3567013f.jpg"
+  },
+  "pages/about/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2229683325"
+  },
+  "pages/about/story": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2214148299"
+  },
+  "pages/events/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2217267938"
+  },
+  "pages/teachings/series-kingdom": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2286505182"
+  },
+  "pages/teachings/series-faith": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2218103738"
+  },
+  "pages/teachings/series-prayer": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2245105414"
+  },
+  "pages/teachings/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1250015443"
+  },
+  "pages/watch-live/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1708661049"
+  },
+  "uploads/hero-chatgpt-image-oct-17-2026-05-46-35-pm-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-chatgpt-image-oct-17-2026-05-46-35-pm-1-04980de7.png"
+  },
+  "uploads/hero-glossy-global-ministry-emblem": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-glossy-global-ministry-emblem-7537333b.png"
+  },
+  "uploads/hero-glossy-global-mission-emblem": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-glossy-global-mission-emblem-59502db9.png"
+  },
+  "uploads/hero-igm-profile-picture": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-igm-profile-picture-68df1180.jpg"
+  },
+  "uploads/hero-igm-profile-picture-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-igm-profile-picture-2-afadf728.png"
+  },
+  "uploads/hero-illuminating-global-ministries-emblem": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-illuminating-global-ministries-emblem-fa204937.png"
+  },
+  "uploads/hero-illumination-global-ministries-banner-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-illumination-global-ministries-banner-1-a25dfe00.png"
+  },
+  "uploads/hero-illumination-global-ministries-emblem-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-illumination-global-ministries-emblem-1-58898491.png"
+  },
+  "layouts/header/illumination-global-ministries": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/layouts-header-illumination-global-ministries-b5b621b2.png"
+  }
+}

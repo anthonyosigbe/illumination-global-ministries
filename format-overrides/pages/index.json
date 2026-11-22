@@ -1,0 +1,22 @@
+{
+  "overrides": {
+    "34b01c": {
+      "marks": {
+        "bold": false,
+        "color": null,
+        "fontSize": "3rem",
+        "italic": false
+      },
+      "target": {
+        "contentKey": "home.hero.headline",
+        "contentKeyTemplate": null,
+        "expressionHash": null,
+        "file": "src/pages/index.tsx",
+        "sourceKind": "content-key",
+        "tagName": "h1"
+      },
+      "updatedAt": "2026-11-20T23:51:11.306Z"
+    }
+  },
+  "version": 1
+}

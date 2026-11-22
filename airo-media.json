@@ -1,0 +1,593 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-04980de7.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-transparent-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+    ],
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-transparent-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-mug-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-card-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-tshirt-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-box-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-mug-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-card-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-tshirt-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/eb003e75-bede-4d84-8b6a-aa0df0fd7cfd/horizontal-mockup-box-ec61a7ed-9434-489a-9423-23c787761aa8/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:02:22.721Z",
+    "lastUpdated": "2026-11-20T23:09:57.036Z",
+    "surfaceMode": "light",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-04980de7.png": "e2j77qflfh_1795215929726_file_wX8mLFaqLP.png"
+    },
+    "uploadContentHash": "18a328a342911a3f60dc2dcd9f4bc55329436cbcab5c55b3c0f06c3ccdfc7eac",
+    "naturalOrientation": "square",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-horizontal-04980de7.png"
+  },
+  "pages/home/mission": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1489175455",
+    "searchQuery": "diverse multicultural congregation community worship together joyful",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2181729110",
+      "https://img1.wsimg.com/isteam/getty/185320245",
+      "https://img1.wsimg.com/isteam/getty/2181649942",
+      "https://img1.wsimg.com/isteam/getty/2274652413"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:24.653Z",
+    "lastUpdated": "2026-11-20T23:02:24.653Z",
+    "gettyId": "1489175455",
+    "alternativeGettyIds": [
+      "2181729110",
+      "185320245",
+      "2181649942",
+      "2274652413"
+    ]
+  },
+  "pages/home/ministry-worship": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1145417967",
+    "searchQuery": "worship music praise hands raised church congregation uplifting",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2252525951",
+      "https://img1.wsimg.com/isteam/getty/2184892514",
+      "https://img1.wsimg.com/isteam/getty/486505693"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:25.043Z",
+    "lastUpdated": "2026-11-20T23:02:25.043Z",
+    "gettyId": "1145417967",
+    "alternativeGettyIds": [
+      "2252525951",
+      "2184892514",
+      "486505693"
+    ]
+  },
+  "pages/home/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1909969780",
+    "searchQuery": "radiant golden light rays breaking through clouds worship spiritual hope",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1406843391",
+      "https://img1.wsimg.com/isteam/getty/1326745628",
+      "https://img1.wsimg.com/isteam/getty/510566772",
+      "https://img1.wsimg.com/isteam/getty/1048376024"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:25.414Z",
+    "lastUpdated": "2026-11-20T23:02:25.414Z",
+    "gettyId": "1909969780",
+    "alternativeGettyIds": [
+      "1406843391",
+      "1326745628",
+      "510566772",
+      "1048376024"
+    ]
+  },
+  "pages/home/give": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2289019658",
+    "searchQuery": "generous giving hands open offering hope community support",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2294149918",
+      "https://img1.wsimg.com/isteam/getty/2275855878",
+      "https://img1.wsimg.com/isteam/getty/2233595168"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:25.796Z",
+    "lastUpdated": "2026-11-20T23:02:25.796Z",
+    "gettyId": "2289019658",
+    "alternativeGettyIds": [
+      "2294149918",
+      "2275855878",
+      "2233595168"
+    ]
+  },
+  "pages/home/ministry-prayer": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2267490925",
+    "searchQuery": "people praying together hands folded spiritual prayer intimate",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2297432228",
+      "https://img1.wsimg.com/isteam/getty/887479264",
+      "https://img1.wsimg.com/isteam/getty/2148785185"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:25.808Z",
+    "lastUpdated": "2026-11-20T23:02:25.808Z",
+    "gettyId": "2267490925",
+    "alternativeGettyIds": [
+      "2297432228",
+      "887479264",
+      "2148785185"
+    ]
+  },
+  "pages/home/ministry-outreach": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1479373304",
+    "searchQuery": "community outreach volunteers serving helping people together",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2257028064",
+      "https://img1.wsimg.com/isteam/getty/2257027462",
+      "https://img1.wsimg.com/isteam/getty/2261301855"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:26.596Z",
+    "lastUpdated": "2026-11-20T23:02:26.596Z",
+    "gettyId": "1479373304",
+    "alternativeGettyIds": [
+      "2257028064",
+      "2257027462",
+      "2261301855"
+    ]
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/578d74b5-d570-4e9a-89ce-207b29049d2b/favicon-transparent-aa0e821e-8503-4843-b4ea-107322effc8b/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/18cb5991-7fc6-44b1-86a3-d8a7319f6a8d/favicon-transparent-9f0566ec-3dd6-4b29-8fe2-0b5b81f84104/logo-logo.png"
+    ],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/18cb5991-7fc6-44b1-86a3-d8a7319f6a8d/favicon-transparent-9f0566ec-3dd6-4b29-8fe2-0b5b81f84104/logo-logo.png": {
+        "sessionId": "18cb5991-7fc6-44b1-86a3-d8a7319f6a8d",
+        "logoId": "9f0566ec-3dd6-4b29-8fe2-0b5b81f84104",
+        "groupId": "d55879b7-252a-4e54-921c-1566609f2d01"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/578d74b5-d570-4e9a-89ce-207b29049d2b/favicon-transparent-aa0e821e-8503-4843-b4ea-107322effc8b/logo-logo.png": {
+        "sessionId": "578d74b5-d570-4e9a-89ce-207b29049d2b",
+        "logoId": "aa0e821e-8503-4843-b4ea-107322effc8b",
+        "groupId": "b280429f-202a-498a-be2e-853e47d3ac06",
+        "parentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/18cb5991-7fc6-44b1-86a3-d8a7319f6a8d/favicon-transparent-9f0566ec-3dd6-4b29-8fe2-0b5b81f84104/logo-logo.png"
+      }
+    },
+    "logoGroupId": "b280429f-202a-498a-be2e-853e47d3ac06",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/18cb5991-7fc6-44b1-86a3-d8a7319f6a8d/favicon-transparent-9f0566ec-3dd6-4b29-8fe2-0b5b81f84104/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/18cb5991-7fc6-44b1-86a3-d8a7319f6a8d/favicon-original-9f0566ec-3dd6-4b29-8fe2-0b5b81f84104/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/578d74b5-d570-4e9a-89ce-207b29049d2b/favicon-transparent-aa0e821e-8503-4843-b4ea-107322effc8b/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fccde739-cd58-4384-8e3e-109ef2912c5d/session/578d74b5-d570-4e9a-89ce-207b29049d2b/favicon-original-aa0e821e-8503-4843-b4ea-107322effc8b/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-11-20T23:02:38.295Z",
+    "lastUpdated": "2026-11-20T23:10:14.676Z"
+  },
+  "logo/primary": {
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-primary-04980de7.png",
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-primary-04980de7.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-04980de7.png": "e2j77qflfh_1795215929726_file_wX8mLFaqLP.png"
+    },
+    "uploadContentHash": "18a328a342911a3f60dc2dcd9f4bc55329436cbcab5c55b3c0f06c3ccdfc7eac",
+    "createdAt": "2026-11-20T23:09:57.037Z",
+    "lastUpdated": "2026-11-20T23:09:57.037Z",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-cb4c0a05.png",
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-cb4c0a05.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-cb4c0a05.png": "e2j77qflfh_1795215929726_file_wX8mLFaqLP.png"
+    },
+    "uploadContentHash": "18a328a342911a3f60dc2dcd9f4bc55329436cbcab5c55b3c0f06c3ccdfc7eac",
+    "createdAt": "2026-11-20T23:09:57.037Z",
+    "lastUpdated": "2026-11-20T23:09:57.037Z",
+    "naturalOrientation": "vertical"
+  },
+  "team/leader-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/team-leader-1-e7a094e3.jpg",
+    "searchQuery": "man speaking into microphone at podium",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:10:18.584Z",
+    "lastUpdated": "2026-11-20T23:10:18.584Z",
+    "uploadSources": {
+      "/airo-assets/uploads/team-leader-1-e7a094e3.jpg": "e2j77qflfh_1795215969531_file_cNnnKvwEm7.jpeg"
+    },
+    "uploadContentHash": "29633e4ef2f73fda365096cbeb630c1b970c344c890b315bf4a1060b62afa7c4",
+    "caption": "man speaking into microphone at podium"
+  },
+  "team/leader-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/team-leader-2-3567013f.jpg",
+    "searchQuery": "man speaking passionately into microphone at podium",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:10:23.263Z",
+    "lastUpdated": "2026-11-20T23:10:23.263Z",
+    "uploadSources": {
+      "/airo-assets/uploads/team-leader-2-3567013f.jpg": "e2j77qflfh_1795216012347_file_p7jco_GZgB.jpeg"
+    },
+    "uploadContentHash": "64f9d016245032a090557cbae87c7b8297b47975b1b2b30391ee3faf3980b53f",
+    "caption": "man speaking passionately into microphone at podium"
+  },
+  "pages/about/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2229683325",
+    "searchQuery": "diverse group of people hands together unity community faith",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2248927721",
+      "https://img1.wsimg.com/isteam/getty/1474994990",
+      "https://img1.wsimg.com/isteam/getty/2229683510"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:10:36.663Z",
+    "lastUpdated": "2026-11-20T23:10:36.663Z",
+    "gettyId": "2229683325",
+    "alternativeGettyIds": [
+      "2248927721",
+      "1474994990",
+      "2229683510"
+    ]
+  },
+  "pages/about/story": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2214148299",
+    "searchQuery": "open Bible light rays spiritual reading scripture warm glow",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1333233450",
+      "https://img1.wsimg.com/isteam/getty/2264706535",
+      "https://img1.wsimg.com/isteam/getty/535889459"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:10:44.683Z",
+    "lastUpdated": "2026-11-20T23:10:44.683Z",
+    "gettyId": "2214148299",
+    "alternativeGettyIds": [
+      "1333233450",
+      "2264706535",
+      "535889459"
+    ]
+  },
+  "pages/events/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2217267938",
+    "searchQuery": "church congregation worship service people gathered praise",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2217267862",
+      "https://img1.wsimg.com/isteam/getty/2015577349",
+      "https://img1.wsimg.com/isteam/getty/1456518260"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:19:27.960Z",
+    "lastUpdated": "2026-11-20T23:19:27.960Z",
+    "gettyId": "2217267938",
+    "alternativeGettyIds": [
+      "2217267862",
+      "2015577349",
+      "1456518260"
+    ]
+  },
+  "pages/teachings/series-kingdom": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2286505182",
+    "searchQuery": "kingdom of God light crown glory spiritual power",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2240149992",
+      "https://img1.wsimg.com/isteam/getty/1464317607"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:29:41.436Z",
+    "lastUpdated": "2026-11-20T23:29:41.436Z",
+    "gettyId": "2286505182",
+    "alternativeGettyIds": [
+      "2240149992",
+      "1464317607"
+    ]
+  },
+  "pages/teachings/series-faith": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2218103738",
+    "searchQuery": "faith walk journey path light scripture Bible study",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2284416834",
+      "https://img1.wsimg.com/isteam/getty/1085050624"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:29:41.953Z",
+    "lastUpdated": "2026-11-20T23:29:41.953Z",
+    "gettyId": "2218103738",
+    "alternativeGettyIds": [
+      "2284416834",
+      "1085050624"
+    ]
+  },
+  "pages/teachings/series-prayer": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2245105414",
+    "searchQuery": "prayer intercession hands raised worship spiritual devotion",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2246338479",
+      "https://img1.wsimg.com/isteam/getty/2154907618"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:29:42.349Z",
+    "lastUpdated": "2026-11-20T23:29:42.349Z",
+    "gettyId": "2245105414",
+    "alternativeGettyIds": [
+      "2246338479",
+      "2154907618"
+    ]
+  },
+  "pages/teachings/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1250015443",
+    "searchQuery": "open Bible light rays pulpit preaching sermon church",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1454136316",
+      "https://img1.wsimg.com/isteam/getty/1456526246",
+      "https://img1.wsimg.com/isteam/getty/1307978391",
+      "https://img1.wsimg.com/isteam/getty/450143049"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:29:42.739Z",
+    "lastUpdated": "2026-11-20T23:29:42.739Z",
+    "gettyId": "1250015443",
+    "alternativeGettyIds": [
+      "1454136316",
+      "1456526246",
+      "1307978391",
+      "450143049"
+    ]
+  },
+  "pages/watch-live/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1708661049",
+    "searchQuery": "live streaming church worship service broadcast online video",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1492584419",
+      "https://img1.wsimg.com/isteam/getty/2209693837",
+      "https://img1.wsimg.com/isteam/getty/2184200172",
+      "https://img1.wsimg.com/isteam/getty/1091404422"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T23:31:19.794Z",
+    "lastUpdated": "2026-11-20T23:31:19.794Z",
+    "gettyId": "1708661049",
+    "alternativeGettyIds": [
+      "1492584419",
+      "2209693837",
+      "2184200172",
+      "1091404422"
+    ]
+  },
+  "uploads/hero-chatgpt-image-oct-17-2026-05-46-35-pm-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-chatgpt-image-oct-17-2026-05-46-35-pm-1-04980de7.png",
+    "searchQuery": "illumination global ministries religious logo",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:12.940Z",
+    "lastUpdated": "2026-11-21T00:02:41.555Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-chatgpt-image-oct-17-2026-05-46-35-pm-1-04980de7.png": "e2j77qflfh_1795219360988_file_cLJIIqkX7d.png"
+    },
+    "uploadContentHash": "18a328a342911a3f60dc2dcd9f4bc55329436cbcab5c55b3c0f06c3ccdfc7eac",
+    "caption": "illumination global ministries religious logo"
+  },
+  "uploads/hero-glossy-global-ministry-emblem": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-glossy-global-ministry-emblem-7537333b.png",
+    "searchQuery": "golden cross flame bible world globe",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:14.321Z",
+    "lastUpdated": "2026-11-21T00:02:42.522Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-glossy-global-ministry-emblem-7537333b.png": "e2j77qflfh_1795219360998_file_m7OATzy_sn.png"
+    },
+    "uploadContentHash": "be6f7eab0becabf92288f090a3f3063e5bac93d23d32c388ec071729ce206988",
+    "caption": "golden cross flame bible world globe"
+  },
+  "uploads/hero-glossy-global-mission-emblem": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-glossy-global-mission-emblem-59502db9.png",
+    "searchQuery": "golden cross flame bible world map emblem",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:15.393Z",
+    "lastUpdated": "2026-11-21T00:02:43.399Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-glossy-global-mission-emblem-59502db9.png": "e2j77qflfh_1795219361024_file_smYdeplHQd.png"
+    },
+    "uploadContentHash": "91cfa6244456bb03edaac7ad105c30dc5605046fa88db3400ece555fa4ffbf85",
+    "caption": "golden cross flame bible world map emblem"
+  },
+  "uploads/hero-igm-profile-picture": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-igm-profile-picture-68df1180.jpg",
+    "searchQuery": "golden cross flame bible world map",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:16.211Z",
+    "lastUpdated": "2026-11-20T23:54:16.211Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-igm-profile-picture-68df1180.jpg": "e2j77qflfh_1795218851498_file_9CnpBGKeRY.jpg"
+    },
+    "uploadContentHash": "f3d7aebc5bd5a08bd450ff16dfc6e77913c436f13f48fefb33e5b83e3f368a4a",
+    "caption": "golden cross flame bible world map"
+  },
+  "uploads/hero-igm-profile-picture-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-igm-profile-picture-2-afadf728.png",
+    "searchQuery": "golden cross flame bible world map",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:16.956Z",
+    "lastUpdated": "2026-11-20T23:54:16.956Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-igm-profile-picture-2-afadf728.png": "e2j77qflfh_1795218851499_file_Ebw0TdT66a.png"
+    },
+    "uploadContentHash": "593f6faeb26087f2f33b99f9c0967e846d95338388fd941199485a2652e13386",
+    "caption": "golden cross flame bible world map"
+  },
+  "uploads/hero-illuminating-global-ministries-emblem": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-illuminating-global-ministries-emblem-fa204937.png",
+    "searchQuery": "glowing cross flame bible world map",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:17.884Z",
+    "lastUpdated": "2026-11-20T23:54:17.884Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-illuminating-global-ministries-emblem-fa204937.png": "e2j77qflfh_1795218852307_file_h9-vgc0aw3.png"
+    },
+    "uploadContentHash": "f9e4d12d7042fda887b533c58945523fe274f53180954aac520f8a5bec4a3428",
+    "caption": "glowing cross flame bible world map"
+  },
+  "uploads/hero-illumination-global-ministries-banner-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-illumination-global-ministries-banner-1-a25dfe00.png",
+    "searchQuery": "illumination global ministries religious logo earth",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:19.211Z",
+    "lastUpdated": "2026-11-21T00:02:44.162Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-illumination-global-ministries-banner-1-a25dfe00.png": "e2j77qflfh_1795219361028_file_v1LbLqkRyj.png"
+    },
+    "uploadContentHash": "5337b1d4693fd2979d1985b9f2a31366a707c4d9f608e8a5995005712fc3e6f2",
+    "caption": "illumination global ministries religious logo earth"
+  },
+  "uploads/hero-illumination-global-ministries-emblem-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-illumination-global-ministries-emblem-1-58898491.png",
+    "searchQuery": "illumination global ministries logo design",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T23:54:20.185Z",
+    "lastUpdated": "2026-11-21T00:02:45.023Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-illumination-global-ministries-emblem-1-58898491.png": "e2j77qflfh_1795219361033_file_dhyQN6Umpx.png"
+    },
+    "uploadContentHash": "92fa08a378b7ba81a8ea1d11becf20ab3661a922e89bd074396bf43f143d217d",
+    "caption": "illumination global ministries logo design"
+  },
+  "layouts/header/illumination-global-ministries": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/layouts-header-illumination-global-ministries-b5b621b2.png",
+    "searchQuery": "golden cross flame globe bible logo",
+    "alternatives": [
+      "https://e2j77qflfh.agent.c39.airoapp.ai/files/uploads/e2j77qflfh/e2j77qflfh_1795218851487_file_zqJ_Qv60VQ.png?sig=L-jKyyZduDo1Pr32qCiJKxvZEtG6Hevz0uDFl13reVs&exp=1795305479"
+    ],
+    "userModified": true,
+    "sourceRef": "src/layouts/parts/Header.tsx:42",
+    "createdAt": "2026-11-20T23:58:24.778Z",
+    "lastUpdated": "2026-11-21T00:06:36.511Z",
+    "uploadSources": {
+      "/airo-assets/uploads/layouts-header-illumination-global-ministries-b5b621b2.png": "e2j77qflfh_1795219595813_file_TDgp6yIhu3.png"
+    },
+    "caption": "golden cross flame globe bible logo"
+  }
+}

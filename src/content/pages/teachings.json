@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "eyebrow": "Biblical Teachings",
+    "headline": "Rooted in the Word",
+    "subheadline": "Explore messages that equip, inspire, and transform — grounded in Scripture and delivered with passion."
+  },
+  "intro": {
+    "headline": "Teaching Series",
+    "subheadline": "Dive deep into the Word through our ongoing series, each designed to build your faith and deepen your walk with God."
+  },
+  "series": [
+    {
+      "id": "series-1",
+      "title": "Kingdom Light",
+      "description": "Discover what it means to carry the light of Christ's Kingdom into every area of your life.",
+      "message_count": "8 Messages",
+      "date": "Ongoing",
+      "tag": "Featured"
+    },
+    {
+      "id": "series-2",
+      "title": "The Power of Intercession",
+      "description": "A deep dive into the ministry of prayer — how intercession moves heaven and transforms the earth.",
+      "message_count": "6 Messages",
+      "date": "October 2026",
+      "tag": "Prayer"
+    },
+    {
+      "id": "series-3",
+      "title": "Walking by Faith",
+      "description": "Faith is not passive — it is active trust in God's promises. This series calls believers to step out boldly.",
+      "message_count": "5 Messages",
+      "date": "September 2026",
+      "tag": "Faith"
+    }
+  ],
+  "recent": {
+    "eyebrow": "Recent Messages",
+    "headline": "Latest from the Pulpit",
+    "items": [
+      {
+        "id": "msg-1",
+        "title": "You Are the Light of the World",
+        "series": "Kingdom Light",
+        "date": "November 10, 2026",
+        "duration": "52 min",
+        "scripture": "Matthew 5:14–16",
+        "description": "Pastor Anthony unpacks the mandate every believer carries — to shine with the light of Christ in a world of darkness.",
+        "video_url": "",
+        "audio_url": ""
+      },
+      {
+        "id": "msg-2",
+        "title": "When Heaven Hears",
+        "series": "The Power of Intercession",
+        "date": "October 27, 2026",
+        "duration": "48 min",
+        "scripture": "James 5:16–18",
+        "description": "A powerful message on the conditions and confidence of effective prayer — and what it means when God moves in response.",
+        "video_url": "",
+        "audio_url": ""
+      },
+      {
+        "id": "msg-3",
+        "title": "The Evidence of Things Not Seen",
+        "series": "Walking by Faith",
+        "date": "October 13, 2026",
+        "duration": "55 min",
+        "scripture": "Hebrews 11:1–6",
+        "description": "Faith is not blind — it is the substance of hope made real. This message challenges believers to act on what God has spoken.",
+        "video_url": "",
+        "audio_url": ""
+      },
+      {
+        "id": "msg-4",
+        "title": "Carriers of the Kingdom",
+        "series": "Kingdom Light",
+        "date": "September 29, 2026",
+        "duration": "44 min",
+        "scripture": "Luke 17:20–21",
+        "description": "The Kingdom of God is not a distant future — it is within you. Pastor Anthony calls the church to live as Kingdom ambassadors today.",
+        "video_url": "",
+        "audio_url": ""
+      },
+      {
+        "id": "msg-5",
+        "title": "Praying Without Ceasing",
+        "series": "The Power of Intercession",
+        "date": "September 15, 2026",
+        "duration": "50 min",
+        "scripture": "1 Thessalonians 5:17",
+        "description": "What does it mean to pray without ceasing? This message reframes prayer as a posture of the heart, not just a scheduled activity.",
+        "video_url": "",
+        "audio_url": ""
+      },
+      {
+        "id": "msg-6",
+        "title": "Abraham: The Father of Faith",
+        "series": "Walking by Faith",
+        "date": "September 1, 2026",
+        "duration": "58 min",
+        "scripture": "Romans 4:18–22",
+        "description": "Abraham believed God against all odds. This foundational message explores what it looks like to trust God when circumstances say otherwise.",
+        "video_url": "",
+        "audio_url": ""
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Never Miss a Message",
+    "subheadline": "Join us live every Sunday and Wednesday, or catch up on past messages anytime.",
+    "primary_label": "Watch Live",
+    "primary_href": "/watch-live",
+    "secondary_label": "Request Prayer",
+    "secondary_href": "/prayer"
+  }
+}

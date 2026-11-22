@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "eyebrow": "Welcome to Illumination Global Ministries",
+    "headline": "Reaching the World with the Light of Christ's Kingdom",
+    "subheadline": "Sharing the light of Jesus Christ through biblical teaching, worship, prayer, and fellowship across the nations.",
+    "cta_primary": "Watch Live",
+    "cta_secondary": "Learn More",
+    "service_note": "Sundays at 8:00 AM & 10:30 AM"
+  },
+  "mission": {
+    "eyebrow": "Our Calling",
+    "pull_quote": "A light for the nations.",
+    "body": "Illumination Global Ministries exists to proclaim the gospel of Jesus Christ and encourage people everywhere to grow in the truth, hope, and power of His Kingdom.",
+    "cta": "Discover Our Story"
+  },
+  "ministries": {
+    "eyebrow": "Grow With Us",
+    "headline": "Faith. Teaching. Fellowship.",
+    "items": [
+      {
+        "id": "min-1",
+        "name": "Watch Live",
+        "description": "Join our online worship and ministry meetings. YouTube link coming soon."
+      },
+      {
+        "id": "min-2",
+        "name": "Biblical Teachings",
+        "description": "Explore messages rooted in Scripture. Latest teaching links coming soon."
+      },
+      {
+        "id": "min-3",
+        "name": "Prayer & Connection",
+        "description": "Share a prayer request and connect with the ministry."
+      },
+      {
+        "id": "min-4",
+        "name": "Global Outreach",
+        "description": "Taking the Gospel to the nations through partnerships and mission work."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Join Us",
+    "headline": "All Are Welcome",
+    "subtext": "No matter where you are on your journey, there is a place for you here.",
+    "times": [
+      {
+        "id": "svc-1",
+        "day": "Sunday",
+        "time": "8:00 AM",
+        "label": "Morning Worship"
+      },
+      {
+        "id": "svc-2",
+        "day": "Sunday",
+        "time": "10:30 AM",
+        "label": "Family Service"
+      },
+      {
+        "id": "svc-3",
+        "day": "Wednesday",
+        "time": "7:00 PM",
+        "label": "Bible Study"
+      }
+    ]
+  },
+  "prayer": {
+    "eyebrow": "Prayer",
+    "headline": "We'd Love to Pray With You",
+    "body": "Whatever you're facing, you don't have to face it alone. Submit a prayer request and our team will stand in agreement with you.",
+    "cta": "Submit a Prayer Request"
+  },
+  "give": {
+    "eyebrow": "Partner With the Vision",
+    "headline": "Help Us Carry the Light Farther",
+    "body": "We are preparing a secure giving option for those who wish to support the mission. Your generosity will help us reach the nations with the light of Christ's Kingdom.",
+    "cta_note": "Online donations are not active at this time.",
+    "cta": "Explore Teachings"
+  }
+}

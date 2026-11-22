@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "eyebrow": "Partner With the Vision",
+    "headline": "Give to the Light",
+    "subheadline": "Your generosity fuels the mission — reaching the nations with the light of Christ's Kingdom."
+  },
+  "why": {
+    "eyebrow": "Why We Give",
+    "headline": "Generosity Is an Act of Worship",
+    "body": "At Illumination Global Ministries, giving is not just a transaction — it is an expression of faith and partnership with God's work in the earth. Every gift, large or small, advances the Gospel, supports prayer ministry, and helps us reach communities around the world.",
+    "scripture": "\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"",
+    "reference": "2 Corinthians 9:7"
+  },
+  "areas": {
+    "eyebrow": "Where Your Gift Goes",
+    "headline": "Funding the Mission",
+    "items": [
+      {
+        "id": "area-1",
+        "icon": "Globe",
+        "title": "Global Outreach",
+        "description": "Supporting evangelism and church planting efforts across nations, bringing the Gospel to unreached communities."
+      },
+      {
+        "id": "area-2",
+        "icon": "BookOpen",
+        "title": "Biblical Teachings",
+        "description": "Producing and distributing sound biblical teaching resources — sermons, studies, and discipleship materials."
+      },
+      {
+        "id": "area-3",
+        "icon": "Heart",
+        "title": "Prayer Ministry",
+        "description": "Sustaining our intercessory prayer network and equipping believers to pray with power and purpose."
+      },
+      {
+        "id": "area-4",
+        "icon": "Users",
+        "title": "Community Support",
+        "description": "Serving local communities through outreach programs, humanitarian aid, and practical ministry."
+      }
+    ]
+  },
+  "ways": {
+    "eyebrow": "How to Give",
+    "headline": "Ways to Partner With Us",
+    "note": "Give securely online with a credit or debit card — one-time or monthly. Every gift makes a difference.",
+    "items": [
+      {
+        "id": "way-1",
+        "title": "Online Giving",
+        "description": "Give securely online with your credit or debit card. Choose a one-time gift or become a monthly partner to sustain the mission.",
+        "status": "active",
+        "cta": "Give Now"
+      },
+      {
+        "id": "way-2",
+        "title": "Bank Transfer",
+        "description": "Contact us directly to receive our bank details for direct transfer or wire giving.",
+        "status": "active",
+        "cta": "Contact Us"
+      },
+      {
+        "id": "way-3",
+        "title": "In Person",
+        "description": "Give during any of our services or ministry gatherings. Every offering is received with gratitude.",
+        "status": "active",
+        "cta": "Find a Service"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Ready to Make a Difference?",
+    "body": "Whether you give your time, talent, or treasure — your partnership matters. Reach out to us and let's walk this mission together.",
+    "button": "Give Online Now",
+    "secondary": "Learn About Our Ministry"
+  }
+}

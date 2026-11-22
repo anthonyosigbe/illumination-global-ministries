@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "eyebrow": "Watch Live",
+    "headline": "Join Us Wherever You Are",
+    "subheadline": "Experience the presence of God from anywhere in the world. Our services stream live every Sunday and Wednesday — all are welcome."
+  },
+  "stream": {
+    "eyebrow": "Live Stream",
+    "headline": "Sunday Service — Live Now",
+    "offline_headline": "Stream Starts Soon",
+    "offline_body": "Our next live service begins Sunday at 8:00 AM CST. Set a reminder and join us as we worship together.",
+    "youtube_note": "Services stream live on YouTube. Click below to watch on our channel.",
+    "channel_label": "Watch on YouTube",
+    "channel_url": "https://www.youtube.com/@IlluminationGlobalMinistries",
+    "chat_label": "Join the Live Chat",
+    "subscribe_label": "Subscribe for Reminders"
+  },
+  "services": {
+    "eyebrow": "Service Times",
+    "headline": "When We Go Live",
+    "items": [
+      {
+        "id": "live-1",
+        "day": "Sunday",
+        "time": "8:00 AM CST",
+        "label": "Morning Worship Service",
+        "description": "Start your Sunday in the presence of God — praise, prayer, and the Word.",
+        "live": true
+      },
+      {
+        "id": "live-2",
+        "day": "Sunday",
+        "time": "10:30 AM CST",
+        "label": "Family Worship Service",
+        "description": "Our main gathering — vibrant worship, biblical teaching, and community.",
+        "live": true
+      },
+      {
+        "id": "live-3",
+        "day": "Wednesday",
+        "time": "7:00 PM CST",
+        "label": "Midweek Bible Study",
+        "description": "Deepen your understanding of Scripture in our midweek teaching service.",
+        "live": true
+      }
+    ]
+  },
+  "howto": {
+    "eyebrow": "How It Works",
+    "headline": "Three Ways to Watch",
+    "items": [
+      {
+        "id": "how-1",
+        "step": "1",
+        "title": "Watch on YouTube",
+        "description": "Subscribe to our YouTube channel and turn on notifications so you never miss a service. No account required to watch."
+      },
+      {
+        "id": "how-2",
+        "step": "2",
+        "title": "Join the Live Chat",
+        "description": "Participate in real-time during the service. Share prayer requests, greet fellow worshippers, and engage with the message."
+      },
+      {
+        "id": "how-3",
+        "step": "3",
+        "title": "Watch on Demand",
+        "description": "Missed a service? All past messages are available on our channel to watch at any time, at your own pace."
+      }
+    ]
+  },
+  "prayer": {
+    "eyebrow": "Stay Connected",
+    "headline": "Online Doesn't Mean Alone",
+    "body": "Distance is no barrier to community. Whether you're watching from across town or across the world, you are part of this family. Submit a prayer request, give, or reach out — we'd love to hear from you.",
+    "cta_primary": "Submit a Prayer Request",
+    "cta_secondary": "Explore Teachings"
+  }
+}

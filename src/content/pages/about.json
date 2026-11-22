@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "eyebrow": "Who We Are · What We Believe · Where We Are Going",
+    "headline": "About Our Ministry",
+    "subheadline": "Reaching the World with the Light of Christ's Kingdom."
+  },
+  "calling": {
+    "eyebrow": "Our Calling",
+    "headline": "A Light for the Nations",
+    "body1": "Illumination Global Ministries is a Christ-centered ministry committed to proclaiming the gospel of Jesus Christ, bringing clarity through God's Word, and equipping believers to live according to the principles of His Kingdom.",
+    "body2": "Through biblical teaching, prayer, discipleship, and fellowship, we desire to see lives transformed and believers strengthened in their walk with Christ."
+  },
+  "pastor": {
+    "eyebrow": "Meet Our Lead Pastor",
+    "name": "Pastor Anthony Osigbe",
+    "role": "Lead Pastor & Founder",
+    "summary": "From an early desire to serve God to years of spiritual seeking and church planting, Pastor Anthony's journey reflects an enduring pursuit of God's Word and a willingness to follow His leading. As Lead Pastor of Illumination Global Ministries, he emphasizes sound biblical teaching, prayer, discipleship, and the advancement of Christ's Kingdom."
+  },
+  "story": {
+    "eyebrow": "His Story",
+    "headline": "A Journey of Faith, Discovery & Calling",
+    "paragraphs": [
+      {
+        "id": "p-1",
+        "text": "Pastor Anthony's spiritual journey began in the Catholic Church. As a child he served as an altar boy and hoped to become a Catholic priest. When seminary admission did not work out, his search for God continued through the Block Rosary and Catholic Charismatic Renewal."
+      },
+      {
+        "id": "p-2",
+        "text": "While meditating before the Blessed Sacrament, he recalls hearing the words, \"Heaven is my throne, earth is my footstool\" (Isaiah 66:1), before realizing they were Scripture. The experience deepened his desire to understand God's Word."
+      },
+      {
+        "id": "p-3",
+        "text": "He attended foundational classes, workers' training, and a Life in the Spirit Seminar. He also began visiting other churches as his hunger to know God grew."
+      },
+      {
+        "id": "p-4",
+        "text": "After hearing a message from a minister at King's Glory, he attended the church, where he witnessed what he describes as supernatural miracles and heard an early confirmation of a calling upon his life. During his schooling, someone personally led him to Jesus Christ."
+      }
+    ]
+  },
+  "timeline": {
+    "eyebrow": "Key Moments",
+    "headline": "Prepared Through Every Season",
+    "items": [
+      {
+        "id": "tl-1",
+        "date": "Early Years",
+        "title": "Seeking Across Nigeria",
+        "description": "From polytechnic school to ministry work in Kaduna and Bauchi, he pursued Christ through teaching, prayer, and spiritual encounters."
+      },
+      {
+        "id": "tl-2",
+        "date": "September 25, 2016",
+        "title": "Ordained as Pastor",
+        "description": "During an all-night gathering, visiting Prophet Humphrey called him forward after describing a vision of him eating the Bible and directed that he be ordained as a pastor."
+      },
+      {
+        "id": "tl-3",
+        "date": "Church Planting",
+        "title": "Full-Time Ministry",
+        "description": "After ordination, he served in church-planting assignments, including as an assistant pastor; he later left banking for full-time ministry work."
+      },
+      {
+        "id": "tl-4",
+        "date": "Enugu, Nigeria",
+        "title": "Resident Pastor",
+        "description": "He went on to serve as a resident pastor, planting a church before sensing the call to begin the ministry entrusted specifically to him."
+      }
+    ]
+  },
+  "birth": {
+    "eyebrow": "The Vision Takes Shape",
+    "headline": "The Birth of Illumination Global Ministries",
+    "body": "Following seasons of service and church planting, Pastor Anthony discerned that it was time to move into the work he believed the Lord had prepared for him: Illumination Global Ministries. The ministry is currently focused on online outreach and biblical teaching while preparing for future physical gatherings and a broader global mission."
+  },
+  "heart": {
+    "eyebrow": "The Heart Behind the Work",
+    "headline": "Teaching. Prayer. Discipleship. Global Reach.",
+    "body": "Through every season — from the earliest desire to serve, to ordination, church planting, and the establishment of Illumination Global Ministries — Pastor Anthony's story remains one of seeking God and responding to His direction. We invite you to join us as we continue sharing biblical truth and reaching the world with the light of Christ's Kingdom.",
+    "cta": "Connect in Prayer",
+    "tagline": "Grow in the Light of Christ."
+  }
+}

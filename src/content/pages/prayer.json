@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "eyebrow": "Prayer & Connection",
+    "headline": "We'd Love to Pray With You",
+    "subheadline": "Whatever you're facing, you don't have to face it alone. Submit a prayer request and our team will stand in agreement with you."
+  },
+  "intro": {
+    "quote": "\"The effective, fervent prayer of a righteous man avails much.\"",
+    "reference": "— James 5:16"
+  },
+  "form": {
+    "eyebrow": "Submit a Prayer Request",
+    "headline": "Share Your Request",
+    "body": "Your request is received with care and held in confidence. Our team will pray over every submission.",
+    "fields": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "prayerType": "Type of Prayer",
+      "prayerTypeOptions": [
+        "Personal",
+        "Family",
+        "Health",
+        "Finances",
+        "Spiritual Growth",
+        "Other"
+      ],
+      "request": "Your Prayer Request",
+      "private": "Keep this request private",
+      "submit": "Submit Prayer Request",
+      "sending": "Sending…",
+      "success": "Thank you. We are praying with you.",
+      "successBody": "Your prayer request has been received. Our team will lift you up before the Lord."
+    }
+  },
+  "connect": {
+    "eyebrow": "Stay Connected",
+    "headline": "Join Our Community",
+    "body": "Follow us for biblical encouragement, service updates, and ministry news.",
+    "email": "info@illuminationglobal.org",
+    "watchCta": "Watch Live",
+    "aboutCta": "Learn About Us"
+  }
+}

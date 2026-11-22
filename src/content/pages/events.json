@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "eyebrow": "Events & Services",
+    "headline": "Gather. Worship. Grow.",
+    "subheadline": "Join us for Spirit-filled services, Bible study, and special gatherings — online and in person."
+  },
+  "services": {
+    "eyebrow": "Weekly Services",
+    "headline": "Join Us Every Week",
+    "subtext": "All are welcome. Come as you are.",
+    "items": [
+      {
+        "id": "svc-1",
+        "day": "Sunday",
+        "time": "8:00 AM",
+        "label": "Morning Worship Service",
+        "description": "Start your Sunday with powerful praise, prayer, and the Word of God.",
+        "type": "In Person & Online"
+      },
+      {
+        "id": "svc-2",
+        "day": "Sunday",
+        "time": "10:30 AM",
+        "label": "Family Worship Service",
+        "description": "Our main gathering — vibrant worship, biblical teaching, and community.",
+        "type": "In Person & Online"
+      },
+      {
+        "id": "svc-3",
+        "day": "Wednesday",
+        "time": "7:00 PM",
+        "label": "Midweek Bible Study",
+        "description": "Go deeper into God's Word with teaching, discussion, and prayer.",
+        "type": "Online"
+      }
+    ]
+  },
+  "watch": {
+    "eyebrow": "Watch Live",
+    "headline": "Join Us Online",
+    "body": "Can't make it in person? Stream our services live and stay connected with the Illumination Global Ministries family from anywhere in the world.",
+    "cta": "Watch Live Stream",
+    "note": "Live stream link will be shared before each service."
+  },
+  "upcoming": {
+    "eyebrow": "Upcoming Events",
+    "headline": "What's Coming Up",
+    "items": [
+      {
+        "id": "evt-1",
+        "date": "December 1, 2026",
+        "day": "Sunday",
+        "time": "10:30 AM",
+        "title": "First Sunday Communion Service",
+        "description": "A special service of worship, the Lord's Supper, and corporate prayer as we begin the month together.",
+        "tag": "Special Service"
+      },
+      {
+        "id": "evt-2",
+        "date": "December 7, 2026",
+        "day": "Saturday",
+        "time": "10:00 AM",
+        "title": "Prayer & Fasting Day",
+        "description": "A dedicated day of corporate prayer, intercession, and seeking God together for our community and the nations.",
+        "tag": "Prayer"
+      },
+      {
+        "id": "evt-3",
+        "date": "December 14, 2026",
+        "day": "Sunday",
+        "time": "10:30 AM",
+        "title": "Missions Sunday",
+        "description": "Celebrating and supporting our global outreach work — hear testimonies and learn how you can be part of the mission.",
+        "tag": "Missions"
+      },
+      {
+        "id": "evt-4",
+        "date": "December 21, 2026",
+        "day": "Sunday",
+        "time": "6:00 PM",
+        "title": "Christmas Candlelight Service",
+        "description": "A beautiful evening of carols, Scripture readings, and candlelight worship to celebrate the birth of Jesus Christ.",
+        "tag": "Special Service"
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Find Us",
+    "headline": "We'd Love to See You",
+    "address": "31323 Yatesbury Ln",
+    "city": "Fulshear, TX 77441",
+    "phone": "",
+    "email": "info@illuminationglobal.org",
+    "note": "Join us in person at our Fulshear location or stream any service live online from anywhere in the world.",
+    "cta": "Get Directions"
+  }
+}
